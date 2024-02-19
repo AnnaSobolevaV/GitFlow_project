@@ -1,4 +1,4 @@
-def str_func(string_value):
+def str_to_upper_text(string_value):
     """Принимает на вход строку
     и возвращает ее со всеми заглавными буквами """
     return string_value.upper()
